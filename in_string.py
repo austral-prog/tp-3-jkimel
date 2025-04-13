@@ -5,4 +5,3 @@ def check_vowels():
     
     for vowel in vowels:
         print(f"Contiene {vowel}: {vowel in name_lower}")
-check_vowels()
